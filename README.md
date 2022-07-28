@@ -3,7 +3,7 @@
 ## About Me
 - 🎓 Student at Kennesaw State University
 - 🛠 Currently working on building SPRING apps
-- 🥈 2nd Place Winner @ KSU Fall 2021 Hackathon (Machine Learning)
+- 🥈 <href=https://badgr.com/public/assertions/mvmhy3T9SiWpn-9pTrpqSg> 2nd Place Winner @ KSU Fall 2021 Hackathon </href> (Machine Learning)
 - 💻 Open to work
 - 🌱 Currently learning Spring & React (Full Stack Development)
 
