@@ -14,3 +14,5 @@
 
 ## Contact me : 
 📫 [![Gmail Badge](https://img.shields.io/badge/-andujar.brutus@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:andujar.brutus@gmail.com)](andujar.brutus@gmail.com)
+
+📫 [![Gmail Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=https://www.linkedin.com/in/abrutus/)](LinkedIn)
