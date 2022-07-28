@@ -4,6 +4,7 @@
 - Student at Kennesaw State University
 - Currently working on building SPRING apps
 - 2nd Place Winner @ KSU Fall 2021 Hackathon (Machine Learning)
+- Open to work
 
 ## My Statistics
 ![Andujar's github stats](https://github-readme-stats.vercel.app/api?username=Brutusa&show_icons=true&theme=tokyonight)
