@@ -1,6 +1,6 @@
 <h1 align="center">Welcome<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
-## Here are some of my statistics
+## My Statistics
 ![Andujar's github stats](https://github-readme-stats.vercel.app/api?username=Brutusa&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brutusa&theme=tokyonight" alt="mystreak"/>
 ![Andujar's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brutusa&theme=tokyonight&layout=compact)
