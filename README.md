@@ -2,10 +2,9 @@
 
 ## About Me
 - 🎓 Student at Kennesaw State University (Graduating Summer 2023)
-- 🛠 Currently working on building SPRING apps
 - 🥈 <a href=https://badgr.com/public/assertions/mvmhy3T9SiWpn-9pTrpqSg> 2nd Place Winner @ KSU Fall 2021 Hackathon </a> (Machine Learning)
+- 🌱 Currently learning/building Spring & React (Full Stack Development)
 - 💻 <a href="https://www.linkedin.com/in/abrutus">Open to work</a>
-- 🌱 Currently learning Spring & React (Full Stack Development)
 
 ## My Statistics
 ![Andujar's github stats](https://github-readme-stats.vercel.app/api?username=Brutusa&show_icons=true&theme=tokyonight)
