@@ -1,5 +1,10 @@
 <h1 align="center">Welcome<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
+## About Me
+- Student at Kennesaw State University
+- Currently working on building SPRING apps
+- 2nd Place Winner @ KSU Fall 2021 Hackathon (Machine Learning)
+
 ## My Statistics
 ![Andujar's github stats](https://github-readme-stats.vercel.app/api?username=Brutusa&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brutusa&theme=tokyonight" alt="mystreak"/>
