@@ -1,11 +1,12 @@
 <h1 align="center">Welcome<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
 <h1 align="center">I am Andujar Brutus, a student at Kennesaw State University</h1>
+###Seeking work
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## Here are some of my statistics 🚀
+## Here are some of my statistics
 ![Andujar's github stats](https://github-readme-stats.vercel.app/api?username=Brutusa&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brutusa&theme=tokyonight" alt="mystreak"/>
 ![Andujar's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brutusa&theme=tokyonight&layout=compact)
