@@ -4,7 +4,7 @@
 - 🎓 Student at Kennesaw State University
 - 🛠 Currently working on building SPRING apps
 - 🥈 <a href=https://badgr.com/public/assertions/mvmhy3T9SiWpn-9pTrpqSg> 2nd Place Winner @ KSU Fall 2021 Hackathon </a> (Machine Learning)
-- 💻 Open to work
+- 💻 <a href="https://www.linkedin.com/in/abrutus">Open to work</a>
 - 🌱 Currently learning Spring & React (Full Stack Development)
 
 ## My Statistics
@@ -14,5 +14,3 @@
 
 ## Contact me : 
 📫 [![Gmail Badge](https://img.shields.io/badge/-andujar.brutus@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:andujar.brutus@gmail.com)](andujar.brutus@gmail.com)
-
-🧾 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=https://www.linkedin.com/in/abrutus/)](LinkedIn)
