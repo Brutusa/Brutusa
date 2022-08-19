@@ -11,9 +11,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brutusa&theme=tokyonight" alt="mystreak"/>
 ![Andujar's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brutusa&theme=tokyonight&layout=compact)
 
-<embed src="https://wakatime.com/share/@22688680-62ca-48f2-9d5e-5b07c8d76238/8ec3c2eb-001f-4fee-a329-ae03d43b3ee7.svg"></embed>
-
-<figure><embed src="https://wakatime.com/share/@22688680-62ca-48f2-9d5e-5b07c8d76238/fddd4f49-a9e8-449c-b6bd-1bf1b30d9980.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@22688680-62ca-48f2-9d5e-5b07c8d76238/97da17a1-bb97-4ee9-9088-21379f8ccbca.png" /></a>
 
 ## Contact me : 
 📫 [![Gmail Badge](https://img.shields.io/badge/-andujar.brutus@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:andujar.brutus@gmail.com)](andujar.brutus@gmail.com)
