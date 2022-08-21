@@ -8,7 +8,7 @@
 
 ## My Statistics :
 ![Andujar's github stats](https://github-readme-stats.vercel.app/api?username=Brutusa&show_icons=true&theme=tokyonight)
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Brutusa&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Brutusa&theme=tokyonight" alt="mystreak"/>
 ![Andujar's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brutusa&theme=tokyonight&layout=compact)
 
 ## Contact me : 
