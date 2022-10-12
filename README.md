@@ -7,7 +7,7 @@
 - 💻 <a href="https://www.linkedin.com/in/abrutus">Open to work</a>
 
 ## My Statistics :
-![Andujar's github stats](https://github-readme-stats.vercel.app/api?username=Brutusa&show_icons=true&theme=tokyonight)
+![Andujar's github stats](https://github-readme-stats.vercel.app/api?username=Brutusa&show_icons=true&theme=tokyonight&count_private=true)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brutusa&theme=tokyonight" alt="mystreak"/>
 ![Andujar's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brutusa&theme=tokyonight&layout=compact)
 
