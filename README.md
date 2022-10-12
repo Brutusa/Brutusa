@@ -7,9 +7,9 @@
 - 💻 <a href="https://www.linkedin.com/in/abrutus">Open to work</a>
 
 ## My Statistics :
-![Andujar's github stats](https://github-readme-stats.vercel.app/api?username=Brutusa&show_icons=true&theme=tokyonight&count_private=true)
+![Andujar's github stats](https://github-readme-stats.vercel.app/api?username=Brutusa&count_private=true&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brutusa&theme=tokyonight" alt="mystreak"/>
-![Andujar's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brutusa&theme=tokyonight&layout=compact)
+![Andujar's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brutusa&count_private=true&theme=tokyonight&layout=compact)
 
 ## Contact me : 
 📫 [![Gmail Badge](https://img.shields.io/badge/-andujar.brutus@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:andujar.brutus@gmail.com)](andujar.brutus@gmail.com)
