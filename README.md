@@ -5,6 +5,7 @@
 - 🥈 <a href=https://badgr.com/public/assertions/mvmhy3T9SiWpn-9pTrpqSg> 2nd Place Winner @ KSU Hackathon </a> (Machine Learning)
 - 🌱 Currently learning + building React apps (Full Stack Development)
 - 💻 <a href="https://www.linkedin.com/in/abrutus">Linkedin</a>
+- 💻 <a href="https://linktr.ee/abrutus">Linktree</a>
 
 ## My Statistics :
 ![Andujar's github stats](https://github-readme-stats.vercel.app/api?username=Brutusa&count_private=true&show_icons=true&theme=tokyonight)
