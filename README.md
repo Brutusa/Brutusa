@@ -3,7 +3,7 @@
 ## About Me :
 - 🎓 Student at Kennesaw State University (Graduating 2024)
 - 🥈 <a href=https://badgr.com/public/assertions/mvmhy3T9SiWpn-9pTrpqSg> 2nd Place Winner @ KSU Hackathon </a> (Machine Learning)
-- 🌱 Currently learning + building React apps (Full Stack Development)
+- ⚛️ Currently building React apps (Full Stack Development)
 - 💻 <a href="https://www.linkedin.com/in/abrutus">Linkedin</a>
 - 💻 <a href="https://linktr.ee/abrutus">Linktree</a>
 
