@@ -6,6 +6,7 @@
 - ⚛️ Currently building React apps (Full Stack Development)
 - 💻 <a href="https://www.linkedin.com/in/abrutus">Linkedin</a>
 - 💻 <a href="https://linktr.ee/abrutus">Linktree</a>
+⚡ Fun fact: I love the arts! Poetry. Film & Cinema. Orchestras. Painting. You name it. The artistic expression speaks of a deeper human condition that we can all relate to... see? I could talk about this all day.
 
 ## My Statistics :
 ![Andujar's github stats](https://github-readme-stats.vercel.app/api?username=Brutusa&count_private=true&show_icons=true&theme=tokyonight)
@@ -14,5 +15,3 @@
 
 ## Contact me : 
 📫 [![Gmail Badge](https://img.shields.io/badge/-andujar.brutus@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:andujar.brutus@gmail.com)](andujar.brutus@gmail.com)
-
-⚡ Fun fact: I love the arts! Poetry. Film & Cinema. Orchestras. Painting. You name it. The artistic expression speaks of a deeper human condition that we can all relate to... see? I could talk about this all day.
