@@ -5,7 +5,7 @@
 
 🥈 <a href=https://badgr.com/public/assertions/mvmhy3T9SiWpn-9pTrpqSg> 2nd Place Winner @ KSU Hackathon </a> (Machine Learning)
 
-⚛️ Currently building React apps (Full Stack Development)
+🤖 Currently building Machine Learning Projects
 
 ⚡ Fun fact: I love the arts! Poetry. Film & Cinema. Orchestras. Painting. You name it. The artistic expression speaks of a deeper human condition that we can all relate to... see? I could talk about this all day.
 
