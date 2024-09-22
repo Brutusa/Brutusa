@@ -3,7 +3,7 @@
 ## About Me :
 🎓 Student at Kennesaw State University (Graduating 2024)
 
-🥈 <a href=https://badgr.com/public/assertions/mvmhy3T9SiWpn-9pTrpqSg> 2nd Place Winner @ KSU Hackathon </a> (Machine Learning)
+🥈 <a href=https://www.kennesaw.edu/news/stories/2021/ksu-students-work-with-companies-in-hackathon-event.php> 2nd Place Winner @ KSU Hackathon </a> (Machine Learning)
 
 🤖 Currently building Machine Learning Projects
 
