@@ -19,4 +19,4 @@
 ![Andujar's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brutusa&count_private=true&theme=tokyonight&layout=compact)
 
 ## Contact me : 
-📫 [![Gmail Badge](https://img.shields.io/badge/-andujar.brutus@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:andujar.brutus@gmail.com)](andujar.brutus@gmail.com)
+📫 [![Gmail Badge](https://img.shields.io/badge/-andujarbrutus@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:andujarbrutus@gmail.com)](andujarbrutus@gmail.com)
