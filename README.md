@@ -11,8 +11,6 @@
 
 💻 <a href="https://www.linkedin.com/in/abrutus">Linkedin</a>
 
-💻 <a href="https://linktr.ee/abrutus">Linktree</a>
-
 ## My Statistics :
 ![Andujar's github stats](https://github-readme-stats.vercel.app/api?username=Brutusa&count_private=true&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brutusa&theme=tokyonight" alt="mystreak"/>
