@@ -1,7 +1,7 @@
 <h1 align="center">Welcome<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
 ## About Me :
-🎓 Student at Kennesaw State University (Graduating December 2024)
+🎓 Kennesaw State University class of 2024
 
 🥈 <a href=https://www.kennesaw.edu/news/stories/2021/ksu-students-work-with-companies-in-hackathon-event.php> 2nd Place Winner @ KSU Hackathon </a> (Machine Learning)
 
