@@ -7,7 +7,7 @@
 
 🤖 Currently building Machine Learning Projects
 
-⚡ Fun fact: I love the arts- Poetry, Cinema, Visual Arts, Anime, Orchestras. You name it.
+🎵 Fun fact: I love playing the guitar 
 
 💻 <a href="https://www.linkedin.com/in/abrutus">Linkedin</a>
 
