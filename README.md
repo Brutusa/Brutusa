@@ -3,7 +3,7 @@
 ## About Me :
 🎓 Kennesaw State University class of 2024
 
-🥈 <a href=https://www.kennesaw.edu/news/stories/2021/ksu-students-work-with-companies-in-hackathon-event.php> 2nd Place Winner @ KSU Hackathon </a> (Machine Learning)
+🥈 <a href=https://www.kennesaw.edu/news/stories/2021/ksu-students-work-with-companies-in-hackathon-event.php>  Prize Winner @ KSU Hackathon </a> (Machine Learning)
 
 🤖 Currently building Machine Learning Projects
 
